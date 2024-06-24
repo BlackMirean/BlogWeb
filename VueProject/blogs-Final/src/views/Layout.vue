@@ -147,7 +147,7 @@ const handleCommand =(command)=> {
                 <router-view></router-view>                
             </el-main>
             <!-- 底部区域 -->
-            <el-footer>220110900735 徐峥扬 22软件工程3班</el-footer>
+            <el-footer>BlackMirean</el-footer>
         </el-container>
     </el-container>
 </template>
